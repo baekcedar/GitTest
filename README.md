@@ -6,6 +6,20 @@
 public static void test(){
 
     System.out.println("TEST");
-    
+
 }
+
+
+public static void test2(){
+    System.out.println("TEST2");   
+}
+
+```
+
+ -P TEST
+ -p test2
+
+
+
+
 
