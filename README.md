@@ -17,7 +17,8 @@ public static void test2(){
 ```
 
  -P TEST
- 
+ -p test2
+
 
 
 
